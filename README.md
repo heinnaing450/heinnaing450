@@ -1,5 +1,5 @@
 - 👋 Hi, I’m HeinNaingThant
-- 👀 I’m interested in development
+- 👀 I’m interested in Web development
 
 
 <!---
